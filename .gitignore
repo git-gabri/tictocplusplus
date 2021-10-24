@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except certain files
+!.gitignore
+!LICENSE
+!README.md
+!stopwatch.hpp
