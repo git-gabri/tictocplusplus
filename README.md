@@ -14,4 +14,5 @@ s.tic();
 
 s.toc();
 std::cout << "Elapsed time: " << s << " seconds." << std::endl;
+std::cout << "Half of elapsed time: << s.elapsed() / 2.0 << " seconds." << std::endl;
 ```
